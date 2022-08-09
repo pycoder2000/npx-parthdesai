@@ -21,7 +21,6 @@ npx parthdesai
 ![Demo GIF](https://github.com/pycoder2000/npx-parthdesai/raw/main/Assets/demo.gif)
 
 </div>
----
 
 ## ⚒️ Installation
 
