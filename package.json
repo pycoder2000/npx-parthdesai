@@ -1,10 +1,10 @@
 {
   "name": "parthdesai",
-  "version": "1.0.6",
+  "version": "1.0.0",
   "description": "A personal card for Parth Desai (@pycoder2000)",
   "main": "card.js",
   "bin": {
-    "tfqrrhmn": "card.js"
+    "parthdesai": "card.js"
   },
   "repository": {
     "type": "git",
