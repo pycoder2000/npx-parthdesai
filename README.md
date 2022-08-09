@@ -22,7 +22,8 @@ npx parthdesai
 
 </div>
 ---
-## Install
+
+## ⚒️ Installation
 
 ```bash
 git clone https://github.com/pycoder2000/npx-parthdesai.git
@@ -30,14 +31,14 @@ cd npx-parthdesai
 npm install
 ```
 
-## Running the project
+## 🚀 Running the project
 
 ```bash
 node .
 ```
 
 ---
-## Requirements
+## 📎 Requirements
 
 For development, you will only need Node.js and a node global package, Yarn, installed in your environement.
 
